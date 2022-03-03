@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+h1 {
+    text-decoration-line: overline underline;
+    text-decoration-color: purple;
+    text-align:right;
+}
+h3 {
+    text-align: end;
+    color: black;
+}
+.grid-container{
+    display: grid;
+  column-gap: 50px;
+}
+img {
+    border: 1px solid purple;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
